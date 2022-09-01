@@ -1,4 +1,4 @@
-![Header]https://github.com/Valeri1998v/Valeri1998v/raw/main/assets/_images_new.jpg
+![Header](https://raw.githubusercontent.com/Valeri1998v/Valeri1998v/main/assets/_images_new.jpg)
 
 About me
 
