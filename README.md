@@ -10,7 +10,7 @@ Languages and Tools
 ![Heroku](https://img.shields.io/badge/Heroku-blueviolet?style=for-the-badge&logo=heroku)
 ![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML5)
 ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/SQl-black?style=for-the-badge&logo=MySQL)
+![MySQL](https://img.shields.io/badge/SQl-gold?style=for-the-badge&logo=MySQL)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![Rspec](https://img.shields.io/badge/Rspec-black?style=for-the-badge&logo=Rspec)
