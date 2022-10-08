@@ -15,7 +15,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![Rspec](https://img.shields.io/badge/Rspec-darkslategrey?style=for-the-badge&logo=ruby)
 
-Follow me
+### Contacts:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-mediumblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/валерия-вербовая-94b059253/)
 [![Telegram](https://img.shields.io/badge/Telegram-dodgerblue?style=for-the-badge&logo=telegram)](https://t.me/Valeriaverbov)
