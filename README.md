@@ -1,6 +1,6 @@
 ![Header](https://github.com/Valeri1998v/Valeri1998v/blob/main/assets/image.png)
 
-I am Ruby on Rails developer
+I'm a beginner Ruby on Rails developer
 
 Languages and Tools
 
