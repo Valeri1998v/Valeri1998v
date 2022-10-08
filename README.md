@@ -1,7 +1,12 @@
 ![Header](https://github.com/Valeri1998v/Valeri1998v/blob/main/assets/image.png)
-<div style="font-family: Arial Black;">I'm a beginner Ruby on Rails developer
-<p>Languages and Tools</p>
-</div>
+<style>
+@font-face { 
+   font-family: 'Montserrat'; 
+   src: url('/montserrat.ttf'); 
+}
+</style>
+<span style="font-family: Montserrat;">I'm a beginner Ruby on Rails developer
+Languages and Tools</span>
 
 
 ![Ruby](https://img.shields.io/badge/Ruby-darkred?style=for-the-badge&logo=ruby)
