@@ -17,6 +17,6 @@ Languages and Tools
 
 Follow me
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/валерия-вербовая-94b059253/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/валерия-вербовая-94b059253/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Valeriaverbov)
-![Email](https://img.shields.io/badge/Email:valeriaverbov7@gmail.com-yellow?style=for-the-badge&logo=gmail)
+![Email](https://img.shields.io/badge/Email:valeriaverbov7@gmail.com-lightyellow?style=for-the-badge&logo=gmail)
