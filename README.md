@@ -8,8 +8,8 @@
     font-weight: 600; /* Жирное начертание */
    }
   </style>
-<p><strong><big>I'm a beginner Ruby on Rails developer
-Languages and Tools</big></strong></p>
+<p>I'm a beginner Ruby on Rails developer
+Languages and Tools</p>
 
 
 ![Ruby](https://img.shields.io/badge/Ruby-darkred?style=for-the-badge&logo=ruby)
