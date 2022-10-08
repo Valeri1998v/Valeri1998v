@@ -20,3 +20,7 @@ Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-mediumblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/валерия-вербовая-94b059253/)
 [![Telegram](https://img.shields.io/badge/Telegram-dodgerblue?style=for-the-badge&logo=telegram)](https://t.me/Valeriaverbov)
 ![Email](https://img.shields.io/badge/Email:valeriaverbov7@gmail.com-lightyellow?style=for-the-badge&logo=gmail)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyshpavda)](https://github.com/anuraghazra/github-readme-stats)
+
+
