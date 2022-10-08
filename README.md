@@ -1,8 +1,8 @@
 ![Header](https://github.com/Valeri1998v/Valeri1998v/blob/main/assets/image.png)
+<div style="font-family: Arial Black;">I'm a beginner Ruby on Rails developer
+<p>Languages and Tools</p>
+</div>
 
-<span style="font-family: Arial Black;">I'm a beginner Ruby on Rails developer</span>
-
-Languages and Tools
 
 ![Ruby](https://img.shields.io/badge/Ruby-darkred?style=for-the-badge&logo=ruby)
 ![Rails](https://img.shields.io/badge/Rails-darkred?style=for-the-badge&logo=rubyonrails)
