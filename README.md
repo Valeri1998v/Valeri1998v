@@ -13,7 +13,7 @@ Languages and Tools
 ![MySQL](https://img.shields.io/badge/SQl-gold?style=for-the-badge&logo=MySQL)
 ![Redis](https://img.shields.io/badge/Redis-gainsboro?style=for-the-badge&logo=redis)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
-![Rspec](https://img.shields.io/badge/Rspec-black?style=for-the-badge&logo=Rspec)
+![Rspec](https://img.shields.io/badge/Rspec-maroon?style=for-the-badge&logo=Rspec)
 
 Follow me
 
