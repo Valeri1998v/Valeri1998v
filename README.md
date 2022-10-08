@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Valeri1998v/Valeri1998v/main/assets/_images_new.jpg)
+![Header](https://github.com/Valeri1998v/Valeri1998v/blob/main/assets/image.png)
 
 I am Ruby on Rails developer
 
