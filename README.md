@@ -17,4 +17,4 @@ Languages and Tools
 
 Follow me
 
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk)]
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk)](https://vk.com/ria1998val)
