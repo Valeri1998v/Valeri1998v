@@ -1,6 +1,6 @@
 ![Header](https://github.com/Valeri1998v/Valeri1998v/blob/main/assets/image.png)
 
-<p style="font-style:italic">I'm a beginner Ruby on Rails developer
+<p style="font-size:x-large">I'm a beginner Ruby on Rails developer
 Languages and Tools</p>
 
 
