@@ -13,5 +13,8 @@ Languages and Tools
 ![Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku)
 
 
+![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML5)
+
+![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)
 
 Follow me
