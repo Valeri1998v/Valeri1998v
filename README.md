@@ -8,5 +8,10 @@ Languages and Tools
 
 ![Rails](https://img.shields.io/badge/Rails-darkred?style=for-the-badge&logo=rubyonrails)
 
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=github)
+
+![Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku)
+
+
 
 Follow me
