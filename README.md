@@ -16,3 +16,5 @@ Languages and Tools
 ![Rspec](https://img.shields.io/badge/Rspec-black?style=for-the-badge&logo=Rspec)
 
 Follow me
+
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk)]
