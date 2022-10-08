@@ -17,4 +17,11 @@ Languages and Tools
 
 ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)
 
+![MySQL](https://img.shields.io/badge/SQl-white?style=for-the-badge&logo=MySQL)
+
+
+
+![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis)
+
+
 Follow me
