@@ -21,6 +21,6 @@ Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-dodgerblue?style=for-the-badge&logo=telegram)](https://t.me/Valeriaverbov)
 ![Email](https://img.shields.io/badge/Email:valeriaverbov7@gmail.com-lightyellow?style=for-the-badge&logo=gmail)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyshpavda)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valeri1998v)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Valeri1998v/Valeri1998v/edit/main/README.md))
 
 
