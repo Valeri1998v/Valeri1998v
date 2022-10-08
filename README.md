@@ -18,4 +18,4 @@ Languages and Tools
 Follow me
 
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk)](https://vk.com/ria1998val)
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)]
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/валерия-вербовая-94b059253/)
