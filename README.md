@@ -1,7 +1,7 @@
 ![Header](https://github.com/Valeri1998v/Valeri1998v/blob/main/assets/image.png)
 
-<p><font-weight="700"><big><em><b>I'm a beginner Ruby on Rails developer
-Languages and Tools</font></b></em></big></p>
+<div font-size="33px"><big><em>I'm a beginner Ruby on Rails developer
+Languages and Tools</em></big></div>
 
 
 ![Ruby](https://img.shields.io/badge/Ruby-darkred?style=for-the-badge&logo=ruby)
