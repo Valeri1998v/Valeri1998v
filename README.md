@@ -21,7 +21,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-dodgerblue?style=for-the-badge&logo=telegram)](https://t.me/Valeriaverbov)
 ![Email](https://img.shields.io/badge/Email:valeriaverbov7@gmail.com-lightyellow?style=for-the-badge&logo=gmail)
 
-[![Топ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Топ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
