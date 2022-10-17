@@ -21,10 +21,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-dodgerblue?style=for-the-badge&logo=telegram)](https://t.me/Valeriaverbov)
 ![Email](https://img.shields.io/badge/Email:valeriaverbov7@gmail.com-lightyellow?style=for-the-badge&logo=gmail)
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valeri1998v&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Valeri1998v&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Valeri1998v&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valeri1998v&layout=compact&theme=dracula)](https://github.com/Valeri1998v/Valeri1998v/edit/main/README.md)
 
 
 
