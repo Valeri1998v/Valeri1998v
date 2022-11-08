@@ -4,7 +4,7 @@
 ### Technical experience:
 
 
-![Ruby](https://img.shields.io/badge/Ruby-darkred?style=for-the-badge&logo=ruby)
+[![Ruby](https://img.shields.io/badge/Ruby-darkred?style=for-the-badge&logo=ruby)](https://www.ruby-lang.org/ru/)
 ![Rails](https://img.shields.io/badge/Rails-darkred?style=for-the-badge&logo=rubyonrails)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=github)
 ![Heroku](https://img.shields.io/badge/Heroku-blueviolet?style=for-the-badge&logo=heroku)
