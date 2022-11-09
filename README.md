@@ -6,7 +6,7 @@
 
 [![Ruby](https://img.shields.io/badge/Ruby-darkred?style=for-the-badge&logo=ruby)](https://www.ruby-lang.org/ru/)
 [![Rails](https://img.shields.io/badge/Rails-darkred?style=for-the-badge&logo=rubyonrails)](https://rubyonrails.org/)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=github)
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=github)](https://git-scm.com/)
 ![Heroku](https://img.shields.io/badge/Heroku-blueviolet?style=for-the-badge&logo=heroku)
 ![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML5)
 ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)
