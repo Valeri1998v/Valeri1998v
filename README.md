@@ -11,7 +11,7 @@
 [![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML5)](https://ru.wikipedia.org/wiki/HTML)
 [![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
 [![MySQL](https://img.shields.io/badge/SQl-gold?style=for-the-badge&logo=MySQL)](https://www.w3schools.com/sql/)
-![Redis](https://img.shields.io/badge/Redis-gainsboro?style=for-the-badge&logo=redis)
+[![Redis](https://img.shields.io/badge/Redis-gainsboro?style=for-the-badge&logo=redis)](https://redis.io/)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![Rspec](https://img.shields.io/badge/Rspec-darkslategrey?style=for-the-badge&logo=ruby)
 
