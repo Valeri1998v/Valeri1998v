@@ -13,7 +13,7 @@
 [![MySQL](https://img.shields.io/badge/SQl-gold?style=for-the-badge&logo=MySQL)](https://www.w3schools.com/sql/)
 [![Redis](https://img.shields.io/badge/Redis-gainsboro?style=for-the-badge&logo=redis)](https://redis.io/)
 [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-![Rspec](https://img.shields.io/badge/Rspec-darkslategrey?style=for-the-badge&logo=ruby)
+[![Rspec](https://img.shields.io/badge/Rspec-darkslategrey?style=for-the-badge&logo=ruby)](https://rspec.info/)
 
 ### Contacts:
 
