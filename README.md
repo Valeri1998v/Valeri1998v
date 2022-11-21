@@ -1,6 +1,6 @@
 ![Header](https://github.com/Valeri1998v/Valeri1998v/blob/main/assets/image.png)
 
-### I'm a Ruby on Rails developer
+### I'm a programmer
 ### Technical experience:
 
 
