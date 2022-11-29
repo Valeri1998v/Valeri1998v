@@ -8,6 +8,7 @@
 [![Heroku](https://img.shields.io/badge/Heroku-blueviolet?style=for-the-badge&logo=heroku)](https://www-heroku-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=sc)
 [![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML5)](https://ru.wikipedia.org/wiki/HTML)
 [![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
 [![MySQL](https://img.shields.io/badge/SQl-gold?style=for-the-badge&logo=MySQL)](https://www.w3schools.com/sql/)
 [![Redis](https://img.shields.io/badge/Redis-gainsboro?style=for-the-badge&logo=redis)](https://redis.io/)
 [![Ruby](https://img.shields.io/badge/Ruby-darkred?style=for-the-badge&logo=ruby)](https://www.ruby-lang.org/ru/)
